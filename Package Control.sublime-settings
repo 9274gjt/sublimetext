@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AngularJS",
+		"AutoFileName",
+		"Better Completion",
+		"Boxy Theme",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"CSS Extended Completions",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"HTML5",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"LaTeXTools",
+		"LESS",
+		"Less2Css",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"Package Control",
+		"Phpcs",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeServer",
+		"Table Editor",
+		"TrailingSpaces"
+	]
+}

@@ -1,0 +1,7 @@
+{ 
+// “color_scheme”: “Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme”, 
+"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme", 
+"draw_centered": false, //默认为true，居中对齐，设置为false，左对齐 
+"wrap_width": 120, //每行字符数上限 
+"highlight_line": true, //当前行高亮显示 
+} 

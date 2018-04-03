@@ -1,0 +1,21 @@
+[
+	{ "keys": ["ctrl+shift+f"], "command": "pretty_json" },
+	 { "keys": ["ctrl+shift+c"], "command": "copy_path" },
+     // { "keys": ["alt+f12"], "command": "open_in_browser" },//默认浏览器打开
+     { "keys": ["fn+f1"], "command": "side_bar_files_open_with",  // ctrl+fn+f1在firefox中打开
+        "args": {
+            "paths": [],
+            "application": "D:\\program file\\Mozilla Firefox\\firefox.exe",
+            "extensions":".*" //any file with extension
+        }
+    },
+    { "keys": ["fn+f2"], "command": "side_bar_files_open_with",  // ctrl+fn+f2在chrome中打开
+        "args": {
+            "paths": [],
+            "application": "C:\\Users\\9274\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
+            "extensions":".*" //any file with extension
+        }
+    },
+    { "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}  }
+]
